@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Учебная практика\Учебная практика\bin\Debug\net8.0-windows\Учебная практика.exe
+C:\Users\user\source\repos\Учебная практика\Учебная практика\bin\Debug\net8.0-windows\Учебная практика.deps.json
+C:\Users\user\source\repos\Учебная практика\Учебная практика\bin\Debug\net8.0-windows\Учебная практика.runtimeconfig.json
+C:\Users\user\source\repos\Учебная практика\Учебная практика\bin\Debug\net8.0-windows\Учебная практика.dll
+C:\Users\user\source\repos\Учебная практика\Учебная практика\bin\Debug\net8.0-windows\Учебная практика.pdb
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная_практика.Form1.resources
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.AssemblyInfo.cs
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.dll
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\refint\Учебная практика.dll
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.pdb
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\Учебная практика.genruntimeconfig.cache
+C:\Users\user\source\repos\Учебная практика\Учебная практика\obj\Debug\net8.0-windows\ref\Учебная практика.dll

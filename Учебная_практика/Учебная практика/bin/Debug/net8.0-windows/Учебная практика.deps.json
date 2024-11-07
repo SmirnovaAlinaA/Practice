@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Учебная практика/1.0.0": {
+        "runtime": {
+          "Учебная практика.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Учебная практика/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
